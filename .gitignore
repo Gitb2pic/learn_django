@@ -1,0 +1,3 @@
+venv
+/project_django/db.*
+**/__pycache__/
